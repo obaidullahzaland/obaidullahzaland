@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @obaidullahzaland
-- 👀 I’m interested in Machine Learning, Data Science, Deep Learning
-- 🌱 I’m currently learning Django 
-- 💞️ I’m looking to collaborate on Web based Machine Learning Applicaions
+- 👀 I’m interested in Federated Learning and Robotics
 - 📫 How to reach me - obaidullahzaland1997@gmail.com
 
 <!---
